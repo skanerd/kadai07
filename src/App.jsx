@@ -54,7 +54,7 @@ function App() {
           </div>
         </figcaption>
         <img
-          src="/images/IMG_0053.jpeg"
+          src="./IMG_0053.jpeg"
           
         />
         <div class="position">Student</div>
@@ -80,7 +80,7 @@ function App() {
           </div>
         </figcaption>
         <img
-          src="/images/IMG_4165.JPG"
+          src="./IMG_4165.JPG"
           
         />
         <div class="position">学生</div>
